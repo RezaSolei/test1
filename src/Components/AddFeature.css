@@ -1,0 +1,44 @@
+.add-feature-text{
+    text-align: left;
+    margin-left: -6rem;
+    margin-top: 3rem;
+}
+.closeIcon svg{
+    margin-left: 10rem;
+    margin-top: -4.5rem;
+    height: 1.8rem;
+    width:1.8rem;
+    background-color: #e7e5e5;
+    border-radius: 50%;
+}
+
+.line{
+    margin-left: -7rem;
+    width: 20rem;
+}
+
+.feature-text2{
+    margin-top: 1rem;
+    margin-left: -6rem;
+    width: 17rem;
+    color: #5c5c5c;
+}
+.button-features{
+    margin-left: -7rem;
+    text-align: center;
+    align-items: center;
+}
+.button-features p{
+    margin-top: 0.9rem;
+    margin-left: 1rem;
+    text-align: center;
+    align-items: center;
+    color: #5c5c5c;
+    font-size: 0.9em;
+}
+.border{
+    width: 18rem;
+}
+.border:focus{
+    color:rgb(101, 163, 7);    
+}
